@@ -1,4 +1,4 @@
-package com.kokenov.factorymethod;
+package com.transport.factorymethod;
 
 /**
  * The Creator class declares the factory method that is supposed to return an

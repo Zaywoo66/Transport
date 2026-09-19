@@ -1,4 +1,4 @@
-package com.kokenov.factorymethod;
+package com.transport.factorymethod;
 
 /**
  * Concrete Creator representing Sea Logistics.

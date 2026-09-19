@@ -5,7 +5,7 @@ This project demonstrates the **Factory Method** design pattern in Java 17, appl
 
 ## Project Structure
 ```text
-src/main/java/com/kokenov/factorymethod/
+src/main/java/com/transport/factorymethod/
 ├── Transport.java         // Product interface
 ├── Truck.java             // Concrete Product
 ├── Ship.java              // Concrete Product
@@ -31,12 +31,12 @@ mvn clean compile
 ### Execution
 You can execute the main demo class using the `exec-maven-plugin`:
 ```bash
-mvn exec:java -Dexec.mainClass="com.kokenov.factorymethod.LogisticsDemo"
+mvn exec:java -Dexec.mainClass="com.transport.factorymethod.LogisticsDemo"
 ```
 
 Alternatively, to run using plain `javac` and `java`:
 ```bash
 cd src/main/java
-javac com/kokenov/factorymethod/*.java
-java com.kokenov.factorymethod.LogisticsDemo
+javac com/transport/factorymethod/*.java
+java com.transport.factorymethod.LogisticsDemo
 ```

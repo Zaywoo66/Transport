@@ -1,4 +1,4 @@
-package com.kokenov.factorymethod;
+package com.transport.factorymethod;
 
 /**
  * The Client class demonstrating the Factory Method pattern.

@@ -1,4 +1,4 @@
-package com.kokenov.factorymethod;
+package com.transport.factorymethod;
 
 /**
  * The Product interface declares the operations that all concrete products must implement.
